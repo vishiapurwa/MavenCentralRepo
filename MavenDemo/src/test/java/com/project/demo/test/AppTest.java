@@ -1,4 +1,4 @@
-package com.project.demo.MavenDemo;
+package com.project.demo.test;
 
 import static org.junit.Assert.fail;
 
